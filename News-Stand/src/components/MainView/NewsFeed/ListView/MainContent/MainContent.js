@@ -94,7 +94,7 @@ const SubScribeButton = styled.button`
     background-color: white;
     padding: 0 10px;
     height: 24px;
-    font-size: 14px
+    font-size: 14px;
     background: var(--surface-surface-alt, rgba(245, 247, 249, 1));
 `
 
@@ -112,7 +112,6 @@ const MainNewsContent = styled.div`
     height: 260px;
     display: flex;
     justify-content: space-between;
-    }
 `
 const MainHeadLine = styled.div`
     width: 35%;
@@ -127,6 +126,7 @@ const MainHeadLine = styled.div`
             transition-duration: 0.5s;
             text-decoration: underline;
         }
+    }
 `
 
 const SubContent = styled.div`

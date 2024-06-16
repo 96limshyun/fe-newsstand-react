@@ -36,9 +36,6 @@ mongoose.connect(process.env.MongoDB)
     });
     
     const initDB = async () => {
-        // await News.deleteMany({});
-        // await RollingNews.deleteMany({});
-        // await SubscribeList.deleteMany({});
     try {
         const dbCount = await News.countDocuments();
         const latestDbCount = await RollingNews.countDocuments();

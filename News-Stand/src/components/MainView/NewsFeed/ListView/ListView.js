@@ -50,7 +50,6 @@ const ListView = ({ newsData, showModal, handleSubscribeAction, handleUnsubscrib
 
     useEffect(() => {
         if (ViewState.isSubscribeView) initSubscribeData();
-        // 이거를 해지했을때 함수로 빼자
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [ViewState.isSubscribeView, SubState]);
 

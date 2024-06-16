@@ -4,6 +4,10 @@
     "start": "export MongoDB=mongodb+srv://96limshyun:uin1KgIw5F9Dje1x@cluster0.p5pni3h.mongodb.net/ && nodemon server.js"
   },
   "dependencies": {
+    "@babel/plugin-syntax-import-assertions": "^7.24.7",
     "mongoose": "^8.3.2"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.24.7"
   }
 }
