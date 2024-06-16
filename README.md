@@ -13,10 +13,16 @@
 </h2>
 
 - 탭별 화면
+  
+![탭별gif](https://github.com/96limshyun/fe-newsstand-react/assets/126482821/7fb7f347-883e-4094-8ff4-04a36abe6b83)
 
 - 리스트 보기 구독기능, 해제기능
+  
+![그리드gif](https://github.com/96limshyun/fe-newsstand-react/assets/126482821/b1176464-131e-4854-9cc8-b4ea3fcccce0)
 
 - 그리드 보기 구독기능, 해제기능
+  
+![마지막](https://github.com/96limshyun/fe-newsstand-react/assets/126482821/ac241496-db08-466a-9504-9c04de587315)
 
 - 일정 시간마다 롤링으로 주요 뉴스의 타이틀을 보여줍니다.
 - 페이지를 이동해 다양한 언론사를 볼수 있습니다.
